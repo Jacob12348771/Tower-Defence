@@ -1,4 +1,4 @@
-# tower-defence
+# Tower-Defence
 
 Tower Defence game without graphics, following Team Treehouse tutorial.
 
